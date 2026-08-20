@@ -1,0 +1,47 @@
+{
+  "callouts": {
+    "custom": [
+      "cite",
+      "quote",
+      "think",
+      "comment"
+    ],
+    "settings": {
+      "cite": [
+        {
+          "changes": {
+            "color": "230, 230, 230"
+          }
+        }
+      ],
+      "quote": [
+        {
+          "changes": {
+            "color": "230, 230, 230"
+          }
+        }
+      ],
+      "think": [
+        {
+          "changes": {
+            "icon": "lucide-brain-cog",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "comment": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-signature",
+            "color": "233, 151, 63"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiNotebookPen",
+      "LiTags",
+      "LiReplaceAll",
+      "🖥",
+      "LiFileSearchCorner"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Courses": "📑",
+  "Basics.md": {
+    "iconName": "LiCurlyBraces",
+    "iconColor": "#ff00f7"
+  },
+  "Templates": "LiReplaceAll",
+  "Insights": "💡",
+  "Youtube - Chanel": {
+    "iconName": "LiYoutube",
+    "iconColor": "#ff0000"
+  },
+  "Lição da Escola Sabatina": "🏚",
+  "Lição da Escola Sabatina/Adulto": "🕵️‍♀️",
+  "Lição da Escola Sabatina/Jovens": "👨‍🏫",
+  "Library && Highlight": "📑",
+  "Library && Highlight/Books": "📚",
+  "Psychology": "👨‍🎓",
+  "Software Engineering": "👨‍💻",
+  "Biblical Year": {
+    "iconName": "LiCalendarDays",
+    "iconColor": "#fff700"
+  },
+  "Tasks": {
+    "iconName": "LiListChecks",
+    "iconColor": "#00e056"
+  },
+  "BrainsStorms": "🧠",
+  "Library && Highlight/HighlightSummaries": "LiHighlighter",
+  "README.md": "🗒",
+  "Excalidraw": {
+    "iconName": "LiPencilRuler",
+    "iconColor": "#c800ff"
+  },
+  "Courses/Curso.dev": {
+    "iconName": "LiComputer",
+    "iconColor": "#0049db"
+  },
+  "LES - Lição da Escola Sabatina": "LiSchool",
+  "Learn": "🧑‍🎓",
+  "Learn/Programming/YT": "▶",
+  "Brainstorn": "🧠",
+  "Courses/Pinguim Academy": "🐧",
+  "Learn/Refactoring Guru/Design Pattern/Padrão de projeto.md": "LiFolderGit2",
+  "Learn/Refactoring Guru/Patterns": "LiBarChartHorizontalBig",
+  "Courses/Curso.dev/Dia 01/Anotações Curso.dev.md": "LiNotebookTabs",
+  "Courses/FullCycle": "LiCalendarSync",
+  "Routine/Routine.md": {
+    "iconName": "LiRoute",
+    "iconColor": "#ffdd00"
+  },
+  "Courses/English": "🇺🇸",
+  "Courses/Courses.md": "🖥",
+  "Library && Highlight/Books/Books.md": "LiBookText",
+  "Library && Highlight/Library && Highlight.md": "LiHighlighter",
+  "Templates/BookTemplate.md": "LiBookA",
+  "Clippings": "LiClipboardList",
+  "Courses/Murilo Gun": "LiFileSearchCorner",
+  "Learn/Learn.md": "LiComputer",
+  "LES - Lição da Escola Sabatina/1 & 2 Coríntios.md": {
+    "iconName": "LiBookOpenCheck",
+    "iconColor": "#6c3bb5"
+  },
+  "MapTags": "LiTags",
+  "Templates/TaskReviwTemplate.md": "LiNotebookPen"
+}

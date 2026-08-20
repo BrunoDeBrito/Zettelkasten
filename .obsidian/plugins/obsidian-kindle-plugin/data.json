@@ -1,0 +1,12 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Library && Highlight/HighlightSummaries",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2026-03-30T10:44:43.133Z",
+  "fileNameTemplate": "{{title}} - {{authorsLastNames}}",
+  "fileTemplate": "# {{title}}\n## Metadata\n{% trim %}\n{% if authorUrl %}\n* Author: [{{author}}]({{authorUrl}})\n{% elif author %}\n* Author: [[{{author}}]]\n{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\n\n## Highlights\n{{highlights}}\n",
+  "highlightTemplate": "{{ text }}\n— Location: [{{ location }}]({{ appLink }}) — #{{ color }}\n\n\n{% if note %}{{note}}{% endif %}\n\n---\n"
+}
