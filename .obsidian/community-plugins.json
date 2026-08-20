@@ -1,5 +1,17 @@
 [
   "dataview",
   "calendar",
-  "templater-obsidian"
+  "obsidian-kanban",
+  "obsidian-icon-folder",
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-book-search-plugin",
+  "obsidian-projects",
+  "extract-highlights-plugin",
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "callout-manager",
+  "obsidian-kindle-plugin",
+  "obsidian-plugin-toc"
 ]

@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "b63e19bdb1aef1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf4afda2672b7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7e51b59df8350b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": "Learn/Refactoring Guru/Design Pattern/Por que devo aprender padrões?.md",
+                "bFile": "Learn/Refactoring Guru/Design Pattern/Por que devo aprender padrões?.md",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: Por que devo aprender padrões?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84d4afd205015f72",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "96a708b9ae50870b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "eaa46431a1f94663",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "98e0f6aa7cfdff26",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "07c92efc961a9dcb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "4c48acc6577478ce",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8eaec9a0fd4ab244",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ecbad4067ffd62c6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f7e9c5f43c07cbf3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0f54401d35f0c30e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "16b1b350403c6838",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "bb767374089d0653",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "38400c9507fabcd4",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "advanced-tables-toolbar"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "extract-highlights-plugin:Extract Highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dd7e51b59df8350b",
+  "lastOpenFiles": [
+    "Clippings/Sintaxe de formatação avançada.md",
+    "Clippings/Obsidian Flavored Markdown.md",
+    "Clippings/Clippings.md",
+    "/Routine/Routine.md",
+    "/Routine",
+    "/README.md",
+    "/Library && Highlight/Library && Highlight.md",
+    "/Library && Highlight/HighlightSummaries/Kindle/z Summary Kindle.md",
+    "/Library && Highlight/HighlightSummaries/Kindle",
+    "/Library && Highlight/HighlightSummaries/Highlight Summaries.md",
+    "/Library && Highlight/HighlightSummaries",
+    "/Library && Highlight/Books/Kindle/z Kindle.md",
+    "/Library && Highlight/Books/Kindle",
+    "/Library && Highlight/Books/Books.md",
+    "/Library && Highlight/Books",
+    "/Library && Highlight",
+    "/Learn/Refactoring Guru/Refactoring Guru.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Proxy.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Flyweight.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Facade.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Decorator.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Composite.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Bridge.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns/Adapter.md",
+    "/Learn/Refactoring Guru/Patterns/Structural Design Patterns",
+    "/Learn/Refactoring Guru/Patterns/Patterns.md",
+    "/Learn/Refactoring Guru/Patterns/Creational Design Patterns/Singleton.md",
+    "/Learn/Refactoring Guru/Patterns/Creational Design Patterns/Prototype.md",
+    "/Learn/Refactoring Guru/Patterns/Creational Design Patterns/Factory Method.md",
+    "/Learn/Refactoring Guru/Patterns/Creational Design Patterns/Builder.md",
+    "/Learn/Refactoring Guru/Patterns/Creational Design Patterns/Abstract Factory.md",
+    "/Learn/Refactoring Guru/Patterns/Creational Design Patterns",
+    "/Learn/Refactoring Guru/Patterns/Behavioral Design Patterns/Visitor.md",
+    "/Learn/Refactoring Guru/Patterns/Behavioral Design Patterns/Template Method.md",
+    "/Learn/Refactoring Guru/Patterns/Behavioral Design Patterns",
+    "/Learn/Refactoring Guru/Patterns"
+  ]
+}
