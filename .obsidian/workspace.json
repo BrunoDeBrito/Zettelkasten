@@ -202,7 +202,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -218,7 +217,8 @@
       "obsidian-projects:Open projects": false,
       "extract-highlights-plugin:Extract Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
   "active": "aae5dc4e3565b3e8",
