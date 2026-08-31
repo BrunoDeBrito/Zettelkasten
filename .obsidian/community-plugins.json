@@ -13,5 +13,7 @@
   "obsidian-style-settings",
   "callout-manager",
   "obsidian-kindle-plugin",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-wakatime",
+  "obsidian-excalidraw-plugin"
 ]

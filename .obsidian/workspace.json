@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "624cdd57c4f467e5",
+        "id": "16493b979a185892",
         "type": "tabs",
         "children": [
           {
-            "id": "aae5dc4e3565b3e8",
+            "id": "ddde461360364647",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten Method.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zettelkasten Method"
+              "title": "New tab"
             }
           }
         ]
@@ -81,7 +67,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Murilo Gun/Reaprendizagem Criativa.md",
+                "file": "Map/Map Categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reaprendizagem Criativa"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Murilo Gun/Reaprendizagem Criativa.md",
+                "file": "Map/Map Categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reaprendizagem Criativa"
+              "title": "Outgoing links"
             }
           },
           {
@@ -154,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Map/Map Categories.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -179,8 +168,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -189,8 +178,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -218,47 +207,48 @@
       "extract-highlights-plugin:Extract Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a641fd9e249b00cf",
+  "active": "ddde461360364647",
   "lastOpenFiles": [
-    "Zettelkasten Method/Configuração no Obsidian/Backlinks Grafo e Descoberta de Conexões.md",
-    "README.md",
-    "Learn/Learn.md",
-    "Templates/NoteTemplate.md",
-    "Vault Meta/Vault Meta.md",
-    "Courses/FullCycle/Full Cycle.md",
-    "Map Categories/Map Categories.md.tmp.41087.7a0dfe938da5",
-    "Tag Map/Tag Map.md.tmp.41087.bc6c15e817e8",
-    "Templates/Note Template.md.tmp.41087.e51115ba05d8",
-    "Vault Meta/Vault Meta.md.tmp.41087.1bb98d7e06bf",
-    "Vault Meta",
-    "Courses/Murilo Gun/Murilo Gun.md",
-    "Biblical Year/Biblical Year.md",
-    "Tag Map/Tag Map.md",
-    "Routine/Routine.md",
-    "Courses/English/Curso Mairo Vergara/Course English Mairo Vergara.md",
-    "Courses/English/English.md",
-    "Courses/Murilo Gun/Reaprendizagem Criativa.md",
-    "Library && Highlight/Books/EGW/Atos dos Apóstolos - Ellen G White.md",
-    "Library && Highlight/Books/Books.md",
-    "Library && Highlight/Books/Kindle/z Kindle.md",
-    "Library && Highlight/Books/Kindle/As 5 linguagens do amor para homens - Gary Chapman Randy Southern.md",
-    "Library && Highlight/Books/Kindle/A Startup Enxuta - Eric Ries.md",
-    "Templates/BookTemplate.md",
-    "Templates/TaskReviwTemplate.md",
-    "Clippings/Obsidian Flavored Markdown.md",
-    "Clippings/Clippings.md",
-    "MapTags",
+    "Sabbath School Lesson/1 & 2 Coríntios.md",
+    "IA/Claude/Artifacts/mapa-propriedades.md",
     "Basics.md",
-    "Compras.md",
-    "LES - Lição da Escola Sabatina/1 & 2 Coríntios.md",
-    "Attachments",
-    "Courses/Courses.md",
-    "Courses/Murilo Gun/Reaprendizagem Criativa",
-    "Courses/Murilo Gun",
-    "Clippings/Untitled",
-    "Untitled.canvas"
+    "Biblical Year/Biblical Year.md",
+    "README.md",
+    "Clippings/Clippings.md",
+    "Clippings/Untitled.md",
+    "Clippings/Trimodal Nature of Tech Compensation Revisited.md",
+    "JobApplication/Tracker/Traker Application Stripe.md",
+    "Clippings/Trimodal Nature of Tech Compensation Revisited 1.md",
+    "JobApplication/Tracker/Trakers.md",
+    "JobApplication/Notes Applications.md",
+    "IA/IA.md",
+    "IA/Prompts/Prompts Linkeidn.md",
+    "IA/Prompts/Prompts.md",
+    "Templates/NoteTemplateIndex.md",
+    "Vault Meta/Vault Meta.md.tmp.711595.adafdd669043",
+    "Vault Meta/Vault Meta.md.tmp.711595.0139d6a99f12",
+    "Templates/NoteTemplateIndex.md.tmp.711595.4dd5fd1e9bdb",
+    "Learn/Learn.md",
+    "Learn/Refactoring Guru/Refactoring Guru.md",
+    "IA/Claude/Claude.md",
+    "Vault Meta/Vault Meta.md.tmp.711595.02805f38fa41",
+    "Vault Meta/Vault Meta.md.tmp.711595.04b153ba7c5a",
+    "Library and Highlights/Library && Highlight.md.tmp.711595.1f68872d12a1",
+    "Library and Highlights/Highlight Summaries/Highlight Summaries.md.tmp.711595.db50ad278b0d",
+    "Library and Highlights/Books/Books.md.tmp.711595.78ffbc861bea",
+    "Learn/Refactoring Guru/Refactoring Guru.md.tmp.711595.088723e8be4e",
+    "Learn/Refactoring Guru/Patterns/Patterns.md.tmp.711595.6ab4a6ee4b86",
+    "JobApplication/Tracker/Tracker.md",
+    "JobApplication/Applications/JobApplication.md",
+    "Untitled.canvas",
+    "Vault Meta/Vault Meta.md",
+    "Templates/NoteTemplate.md",
+    "IA/Claude/Artifacts/Artifacts.md",
+    "Templates/TaskReviwTemplate.md",
+    "Templates/Zettelkasten - MOC Template.md"
   ]
 }
