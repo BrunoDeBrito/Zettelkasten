@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBackpack",
+      "📲",
       "LiNotebookPen",
       "LiTags",
-      "LiReplaceAll",
-      "🖥",
-      "LiFileSearchCorner"
+      "LiReplaceAll"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,6 @@
     "iconColor": "#6c3bb5"
   },
   "MapTags": "LiTags",
-  "Templates/TaskReviwTemplate.md": "LiNotebookPen"
+  "Templates/TaskReviwTemplate.md": "LiNotebookPen",
+  "Courses/DIO.ME": "LiBackpack"
 }
