@@ -26,7 +26,7 @@ Gente que "tenta Zettelkasten e não funciona" quase sempre está, na prática, 
 
 ## Como isso se divide na prática
 
-Este vault é dedicado só à camada de pensamento/conexão de ideias — o Zettelkasten propriamente dito. Ele não tenta ser também o lugar de tarefas (GTD) nem de arquivo de referência bruta (PARA "Resources"/"Archives") — isso fica melhor em outro vault ou sistema separado (ex: um vault PARA à parte, com pastas tipo `Courses/`, `Library/`, `Routine/`), justamente para não misturar as duas lógicas de organização.
+Este vault é dedicado só à camada de pensamento/conexão de ideias — o Zettelkasten propriamente dito. Ele não tenta ser também o lugar de tarefas (GTD) nem de arquivo de referência bruta (PARA "Resources"/"Archives") — isso fica melhor em outro vault ou sistema separado (ex: um vault PARA à parte, com pastas tipo `Courses/`, `Library/`, `Routine/`), justamente para não misturar as duas lógicas de organização. A pasta `Segundo Cérebro/` guarda só a documentação dos outros métodos, para consulta, e não muda essa divisão.
 
 A regra prática: **arquivo bruto (PDF, curso, anotação de aula) mora no sistema de PARA/referência; a ideia atômica extraída dele mora aqui, neste vault, linkada de volta para a fonte via citação na nota permanente.** Ver [[Fluxo de Captura - Da Ideia à Nota Permanente]].
 
@@ -39,3 +39,4 @@ A regra prática: **arquivo bruto (PDF, curso, anotação de aula) mora no siste
 - [[O que é Zettelkasten]]
 - [[Erros Comuns e Como Evitá-los]]
 - [[Do Zettelkasten à Criação - Escrita Estudo e Decisões]]
+- [[Comparativo Completo dos Métodos]]

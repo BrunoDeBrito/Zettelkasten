@@ -36,6 +36,14 @@ created: 2026-08-19
 - [[Como Manter o Hábito a Longo Prazo]] — a curva de valor atrasada e como não desistir antes dela
 - [[Métricas e Revisão Periódica do Sistema]] — o que medir (e o que não medir)
 
+## Exemplos de uso (o método aplicado do começo ao fim)
+- [[Exemplo Completo - Do Livro à Rede de Notas]] — um trecho de livro passando pelas 4 etapas do funil
+- [[Exemplo - Das Notas a um Texto Pronto]] — como usar as notas permanentes para escrever um post
+
+## Outros métodos de segundo cérebro
+- [[Second Brain]] — BASB, PARA, GTD, LYT e outros, com teoria e comparativos
+- [[Guia Passo a Passo]] — como usar 28 métodos na prática, com plano de 30 dias e trilha de experimentos
+
 ## Templates prontos (`Templates/`)
 - `Zettelkasten - Fleeting Note.md`
 - `Zettelkasten - Literature Note.md`
@@ -53,7 +61,7 @@ created: 2026-08-19
 
 ```dataview
 TABLE category AS "Categoria"
-FROM "" AND -"Templates"
+FROM "" AND -"Templates" AND -"Segundo Cérebro"
 WHERE file.name != "Zettelkasten Method"
 SORT category ASC, file.name ASC
 ```
