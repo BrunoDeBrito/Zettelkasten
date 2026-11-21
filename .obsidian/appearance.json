@@ -7,5 +7,6 @@
   "baseFontSize": 15,
   "textFontFamily": "Maple Mono",
   "interfaceFontFamily": "Maple Mono",
-  "monospaceFontFamily": "Maple Mono"
+  "monospaceFontFamily": "Maple Mono",
+  "showRibbon": true
 }

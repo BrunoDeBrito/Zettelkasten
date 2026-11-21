@@ -205,9 +205,7 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "a641fd9e249b00cf",
